@@ -14,3 +14,15 @@ De maneira simples e bem explicada qualquer um pode aprender com fazer Desingns 
 --- 
 ## APRIMORAMENTO DO PROJETO
 <img align="center" alt="Romeu-Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+
+---
+
+![image](https://user-images.githubusercontent.com/51343870/189238533-b51b4672-f378-4d75-b08a-d45aed5cded3.png)
+
+--- 
+
+![image](https://user-images.githubusercontent.com/51343870/189238645-3b0f3885-9e11-4d31-a208-295978ff4b4e.png)
+
+---
+
+![image](https://user-images.githubusercontent.com/51343870/189238746-9738a2a4-a93c-4362-843e-dba01f18e795.png)
